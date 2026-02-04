@@ -11,8 +11,8 @@ mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/SgPDhb3vMX"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/yagourokogmod-netizen/MCCommunity"
+supportLink = "https://discord.gg/SgPDhb3vMX"
 
 [ejs.welcome]
 welcomeHeader = "BIENVENUE SUR MCGTSCommunity"
