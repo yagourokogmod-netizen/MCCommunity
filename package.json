@@ -4,7 +4,7 @@
   "productName": "MCGTSCommunity Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Yagouroko / dscalzi",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "homepage": "https://github.com/yagourokogmod-netizen/MCCommunity",
   "bugs": {
     "url": "https://github.com/yagourokogmod-netizen/MCCommunity/issues"
