@@ -5,7 +5,7 @@ title = "MCGTSCommunity Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://mcgtscommunity.websr.fr"
-mediaXURL = ""https://mcgtscommunity.websr.fr/""
+mediaXURL = "https://mcgtscommunity.websr.fr/"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/SgPDhb3vMX"
